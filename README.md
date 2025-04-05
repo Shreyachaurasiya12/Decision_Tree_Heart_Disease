@@ -31,4 +31,4 @@ This project applies **Decision Tree Classification** to predict heart disease b
 ## 🛠️ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Decision_Tree_Heart_Disease.git
+   git clone https://github.com/Shreyachaurasiya12/Decision_Tree_Heart_Disease.git
